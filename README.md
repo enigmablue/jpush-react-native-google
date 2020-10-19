@@ -1,3 +1,5 @@
+This is with Google lib, and with no Location enabled in the Androidmanifest. Both were causing rejections.
+
 # JPush-React-Native
 
 ## ChangeLog
